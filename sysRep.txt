@@ -1,0 +1,16 @@
+1) user-service (cmd) 
+-npm init //pour creer un projet node.js
+dima enter 
+2) code . (pour l'ouvrir sur le vs code) 
+3) terminal: npm i mongoose
+             npm i express
+4) taht user_service 
+creer: fichier: index.js
+       folder: src
+       	     folder:models
+		  fichier:userModel.js
+             folder: routes
+		  fichier:userRouter.js
+             folder: controllers
+		  fichier:userController.js
+       folder: config
